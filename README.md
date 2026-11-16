@@ -27,7 +27,7 @@ One row with missing tweet text was removed, leaving 27,480 records
 for analysis. After preprocessing, the data was split into training and
 testing sets using an 80:20 ratio.
 
-### Best-performing model: Random Forest
+##### Best-performing model: Random Forest
 
   Evaluation metric      Result
   Accuracy               70.50%
@@ -37,10 +37,8 @@ Weighted F1-score      70.46%
 
 ## Model Comparison
 #### Results from the executed notebook:
-  Model              Accuracy       Weighted       Weighted       Weighted
-Precision         Recall       F1-score
-  Random               70.50%         70.83%         70.50%     70.46%
-Forest                                                    
+  Model              Accuracy       Weighted       Weighted       Weighte      Precision         Recall       F1-score
+  Random Forest       70.50%         70.83%         70.50%     70.46%                                                    
 
   Support              70.00%         71.69%         70.00%         69.91%
 Vector
