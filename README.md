@@ -184,6 +184,38 @@ These examples demonstrate how the trained workflow can classify new
 text. They are illustrative predictions, not a substitute for broader
 validation.
 
+## Project Results
+
+### 1. Sentiment Distribution
+
+**Positive Sentiment**
+
+![Positive Sentiment](Positive%20Sentiment.png)
+
+**Negative Sentiment**
+
+![Negative Sentiment](Negative%20Sentiment.png)
+
+**Neutral Sentiment**
+
+![Neutral Sentiment](Neutral%20Sentiment.png)
+
+### 2. Model Performance
+
+**Accuracy Comparison**
+
+![Accuracy Comparison](Accuracy%20Comparision.png)
+
+**F1-Score Comparison**
+
+![F1-Score Comparison](F1-Score%20comparision.png)
+
+### 3. Model Evaluation
+
+**Confusion Matrix**
+
+![Confusion Matrix](Confusion%20Matrix.png)
+
 ## Technologies and Libraries
 
 -   **Language:** Python
